@@ -1,1 +1,1 @@
-please do not download the builds here as they will break without the launcher.
+This was used for the launcher, but if you don't want to automatically update the game, download the build here (i guess)
